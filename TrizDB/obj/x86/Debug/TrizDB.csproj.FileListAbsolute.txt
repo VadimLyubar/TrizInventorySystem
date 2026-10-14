@@ -1,7 +1,0 @@
-C:\Users\vadim\Documents\pni_work\test\FirstASP\TrizDB\bin\Debug\TrizDB.exe
-C:\Users\vadim\Documents\pni_work\test\FirstASP\TrizDB\bin\Debug\TrizDB.pdb
-C:\Users\vadim\Documents\pni_work\test\FirstASP\TrizDB\obj\x86\Debug\TrizDB.ProjectInstaller.resources
-C:\Users\vadim\Documents\pni_work\test\FirstASP\TrizDB\obj\x86\Debug\TrizDB.csproj.GenerateResource.Cache
-C:\Users\vadim\Documents\pni_work\test\FirstASP\TrizDB\obj\x86\Debug\TrizDB.exe
-C:\Users\vadim\Documents\pni_work\test\FirstASP\TrizDB\obj\x86\Debug\TrizDB.pdb
-C:\Users\vadim\Documents\pni_work\test\FirstASP\TrizDB\obj\x86\Debug\TrizDB.csprojResolveAssemblyReference.cache

@@ -1,7 +1,0 @@
-C:\Users\vadim\Documents\pni_work\test\FirstASP\TrizDBViewer\obj\x86\Debug\TrizDBViewer.Properties.Resources.resources
-C:\Users\vadim\Documents\pni_work\test\FirstASP\TrizDBViewer\obj\x86\Debug\TrizDBViewer.csproj.GenerateResource.Cache
-C:\Users\vadim\Documents\pni_work\test\FirstASP\TrizDBViewer\bin\Debug\TrizDBViewer.exe
-C:\Users\vadim\Documents\pni_work\test\FirstASP\TrizDBViewer\bin\Debug\TrizDBViewer.pdb
-C:\Users\vadim\Documents\pni_work\test\FirstASP\TrizDBViewer\obj\x86\Debug\TrizDBViewer.exe
-C:\Users\vadim\Documents\pni_work\test\FirstASP\TrizDBViewer\obj\x86\Debug\TrizDBViewer.pdb
-C:\Users\vadim\Documents\pni_work\test\FirstASP\TrizDBViewer\obj\x86\Debug\TrizDBViewer.FormView.resources
