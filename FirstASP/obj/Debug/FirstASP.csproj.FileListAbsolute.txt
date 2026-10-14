@@ -1,0 +1,5 @@
+C:\Users\vadim\Documents\pni_work\test\FirstASP\FirstASP\bin\FirstASP.dll
+C:\Users\vadim\Documents\pni_work\test\FirstASP\FirstASP\bin\FirstASP.pdb
+C:\Users\vadim\Documents\pni_work\test\FirstASP\FirstASP\obj\Debug\FirstASP.dll
+C:\Users\vadim\Documents\pni_work\test\FirstASP\FirstASP\obj\Debug\FirstASP.pdb
+C:\Users\vadim\Documents\pni_work\test\FirstASP\FirstASP\obj\Debug\FirstASP.csprojResolveAssemblyReference.cache
