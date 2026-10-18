@@ -1,7 +1,3 @@
-Solution/Filling/*.exe
-vcs.xml
-*.sdf
-*.suo
-*.opensdf
-obj/
 bin/
+obj/
+*.suo
